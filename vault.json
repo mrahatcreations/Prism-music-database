@@ -11067,5 +11067,50 @@
     "file_id": "CQACAgIAAyEFAATr5_TbAAIXjmqOEV-1yfogmzQpK8mBOgcjqzmBAAI4PAACjbcpS5fywdu9USxOPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM88404619",
+    "title": "Reckless",
+    "artist": "Alabama",
+    "telegram_message_id": 1356,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXj2qOEV_pjVYaKCbSEvTodueMdQcEAAIxOQACKGgJS-9WxmCUcJofPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM37929807",
+    "title": "Love In the First Degree",
+    "artist": "Alabama",
+    "telegram_message_id": 1357,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXkWqOEV-wWWxesLzFOoPYlU4F3MHqAAIVKwACqy1pSA0Iuof5CJ6jPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM64534081",
+    "title": "Knight's Templar",
+    "artist": "Adriel Fair",
+    "telegram_message_id": 1358,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXiWqOEV_57GK_VvoTi-eDHZLbtS2rAAK_SQACWlzISKjz352P3akGPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM43374541",
+    "title": "Crusaders",
+    "artist": "Adriel Fair",
+    "telegram_message_id": 1359,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXjGqOEV9kLgm5kD3pYr_GgCGJkThhAAKFbgACCYChS-R0EIWuDbyyPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM18769801",
+    "title": "Mountain Music",
+    "artist": "Alabama",
+    "telegram_message_id": 1360,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXkmqOEV9-che1FGDORYDFopt7SpRRAAL_IgACLGDRSC-xrF9l2RHWPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
