@@ -10547,13 +10547,13 @@
     "format": "Lossless Master"
   },
   {
-    "isrc": "USUM14365603",
+    "isrc": "INS170900407",
     "title": "Is Jahaan Mein",
     "artist": "Mohit Chauhan",
-    "telegram_message_id": 1285,
-    "file_id": "CQACAgQAAyEFAATr5_TbAAISJWqN8e4TGjMc_1OsAAGgqfwd_MYBfgAC7CAAAuj8OFP-L2pQAAFEUQE9BA",
+    "telegram_message_id": 1297,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISLmqN8e4zJ9nIX9t9X-qrEBpUoOJBAAIGIQAC6Pw4U6gYoGH3ltgKPQQ",
     "quality": "FLAC",
-    "format": "Lossless Master"
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   },
   {
     "isrc": "USUM60740927",
@@ -10624,6 +10624,42 @@
     "artist": "Javed Ali, Irshan Ashraf & Shadab Faridi",
     "telegram_message_id": 1294,
     "file_id": "CQACAgQAAyEFAATr5_TbAAISLWqN8e6jO08uudCqcPIRlA04xjaQAAIFIQAC6Pw4U4GCXAQRiafrPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM26009147",
+    "title": "Dil Ibaadat",
+    "artist": "KK",
+    "telegram_message_id": 1295,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISLGqN8e4qAZpXSr7LJjOCg1o15C1uAAIEIQAC6Pw4U6BePwE-o101PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM31579987",
+    "title": "Tum Mile (Rock)",
+    "artist": "Pritam & Shafqat Amanat Ali",
+    "telegram_message_id": 1296,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISMmqN8e5fPXNdalnpHMkPyYDb-NWZAAIKIQAC6Pw4U_WPgmYb3F_RPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM64732580",
+    "title": "Tum mile (Love Reprise)",
+    "artist": "Javed Ali & Pritam",
+    "telegram_message_id": 1298,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISL2qN8e6T2B9-XdrymKFEz7WsCG4gAAIHIQAC6Pw4U2ZuWRN_vf2aPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "INS170900409",
+    "title": "O Meri Jaan",
+    "artist": "KK",
+    "telegram_message_id": 1299,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISMGqN8e5YHgIlFY957X_AIqU460UMAAIIIQAC6Pw4U5ESWhGJw-IqPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
