@@ -10770,5 +10770,32 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAISRWqN8e5ckKgC48CmhobnH6Msm-KRAALHUwACuGB5UckhbDzLexlhPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM24884452",
+    "title": "Choomantar Remix",
+    "artist": "Benny Dayal",
+    "telegram_message_id": 1315,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISQ2qN8e5CIuyRVUIo9fGt2v-BOaTxAAK9FQACIqbBSODhq3OI2Y1WPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM31639217",
+    "title": "Isq Risk - Lofi Mix",
+    "artist": "Sohail Sen, Rahat Fateh Ali Khan & Irshad Kamil",
+    "telegram_message_id": 1316,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISRGqN8e5JMxwJhB1rBgrV_f4cn3c9AAKUFQACIqbBSKfUnF9d6IZYPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM56648179",
+    "title": "Choomantar",
+    "artist": "Aditi Singh Sharma & Benny Dayal",
+    "telegram_message_id": 1317,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISP2qN8e7RpNiBlpCN6-6BdXlvuqipAALWFQACKYgBScRpxTc8LT9lPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
