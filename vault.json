@@ -4552,5 +4552,95 @@
     "file_id": "CQACAgUAAyEFAATr5_TbAAIBJmqNVZtEBhQgaQzdo3iiYyYjUMZbAAIsDwACBK6xV1N4MjeygEpnPQQ",
     "quality": "24-bit / 96 kHz Master",
     "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM24615001",
+    "title": "Let's Talk About It",
+    "artist": "Alan Galit & FD Vadim",
+    "album": "",
+    "telegram_message_id": 575,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBm2qNVqRlenhdUSxvO8FUBJaF0KyWAAKHDQACFlOxVK3u1-jlna_-PQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBFSF1800667",
+    "title": "Lurkin'",
+    "artist": "Knight Ryder",
+    "album": "Old-School Hip Hop",
+    "telegram_message_id": 577,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBnGqNVqTgpyAM6Lj2_jVSAtzHVrRfAAKIDQACFlOxVBuWx2iD0SF7PQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM88024261",
+    "title": "Master of Puppets (Live at Oslo Spektrum, Oslo, Norway, 11/23/1996)",
+    "artist": "Metallica",
+    "album": "",
+    "telegram_message_id": 578,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAMVao00_HwtwutFqXCwJPE2qv_O-HcAApcbAAKqpGFWuoYUWMLf8u09BA",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBCQV1714818",
+    "title": "Mellotron Scratch (2017 Remaster)",
+    "artist": "Porcupine Tree",
+    "album": "Deadwing (Remastered)",
+    "telegram_message_id": 579,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBKWqNVZvaDq8uqgl9Sxu2tLjm5hvWAAI3DwACBK6xV91D--3ewFYCPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBDHC2557501",
+    "title": "Metropolis Pt. 1 (Live à Paris 2024)",
+    "artist": "Dream Theater",
+    "album": "Quarantième: Live à Paris",
+    "telegram_message_id": 580,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMJGqMpRZ3uvXm7jEoTBl7kPGk-ziJAAKaBgACWcJIRUH1OOxbEDJuPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM20504741",
+    "title": "Mizeraburu no Shizuku (with senya)",
+    "artist": "Yuuhei Satellite",
+    "album": "",
+    "telegram_message_id": 581,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMH2qMpRYbtp4HsWG9-vf5jgl01ocjAALVGgAC-9QBVdFOecR17pboPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM92904005",
+    "title": "Mizeraburu no Shizuku(Instrumental) [with senya]",
+    "artist": "Yuuhei Satellite",
+    "album": "",
+    "telegram_message_id": 582,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMImqMpRbHUa_eZfExaiXpLjYsk1QTAALYGgAC-9QBVZjjosPbKEyePQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM96843194",
+    "title": "Monday Blues",
+    "artist": "Bumpy",
+    "album": "",
+    "telegram_message_id": 583,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBiWqNVqT-IGqF_3-OqBNcY_P_jlIeAAKUDwACLNUJV0B8IfRfU9_6PQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBCQV1716404",
+    "title": "End Credits (Mother and Child Divided) (Live)",
+    "artist": "Porcupine Tree",
+    "album": "Arriving Somewhere",
+    "telegram_message_id": 584,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBLmqNVZuBF_-Dnlvu3p5uDlyafKTUAAJJDwACBK6xV3ZetSYJkH-FPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
   }
 ]
