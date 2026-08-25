@@ -10023,5 +10023,50 @@
     "file_id": "CQACAgIAAyEFAATr5_TbAAIR42qN8e5wZ41Y2fcweXSQHXO0wnvvAAIbZgACmTpBS6etvtLlTZ5qPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM87075713",
+    "title": "Mann Mein Jo",
+    "artist": "Aavani Malhar",
+    "telegram_message_id": 1226,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR62qN8e50ZNxUiQ_ibvE92ObzhCd7AAIIYAACZchBSwPpP856EPKGPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM20545577",
+    "title": "Zamaana Lage (From \"Metro ... In Dino\")",
+    "artist": "Pritam, Arijit Singh, Shashwat Singh, Qaisar Ul Jafri & Sandeep Shrivastava",
+    "telegram_message_id": 1227,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR7GqN8e5KQiumjm5JXKARLLFT7rXAAALxgwACMHSZST0AAbiqg9BO1z0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM42954637",
+    "title": "Pyara Laage",
+    "artist": "Shakthisree Gopalan & Hesham Abdul Wahab",
+    "telegram_message_id": 1228,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR5WqN8e7V4UDd-YYg8OKNlR7CF1qBAAImaQACOA5AS98_5brna7faPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM59679536",
+    "title": "Aye Khuda",
+    "artist": "Karthik",
+    "telegram_message_id": 1229,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR52qN8e6YgxGmhJeoPhdmJdrF3WGkAAIdZgACmTpBSwABRhOOzeqRDz0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "INS182303518",
+    "title": "Pehla Pehla",
+    "artist": "Hesham Abdul Wahab",
+    "telegram_message_id": 1230,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR6GqN8e5AU4w2DrHvYXpKhiUEBVo2AALIaAACDKJASwmncXsDoHCmPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
