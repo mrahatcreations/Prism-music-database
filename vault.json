@@ -10577,10 +10577,10 @@
     "isrc": "USUM33635093",
     "title": "Tum Mile",
     "artist": "Neeraj Shridhar & Pritam",
-    "telegram_message_id": 1288,
-    "file_id": "CQACAgQAAyEFAATr5_TbAAISImqN8e6t1trcBR8w5g18JFi_sI9UAALpIAAC6Pw4U8Rj4nkvkyAXPQQ",
+    "telegram_message_id": 1293,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISK2qN8e4psUjbEu9ZFND9q1CjAAFiwwACAyEAAuj8OFNQ1731uzkaoj0E",
     "quality": "FLAC",
-    "format": "Lossless Master"
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   },
   {
     "isrc": "USUM38301552",
@@ -10588,6 +10588,42 @@
     "artist": "Ajay Jhingaran & Kalpana Patowary",
     "telegram_message_id": 1289,
     "file_id": "CQACAgQAAyEFAATr5_TbAAISIGqN8e5vH8VmIZ-3-KjKnR3WFJKMAALiIAAC6Pw4U4q-YXrHpRKZPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM30516148",
+    "title": "Dil Ibaadat ~ Rock",
+    "artist": "K K",
+    "telegram_message_id": 1290,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISKGqN8e4-aTd-R21ej5wZwPJDpeuKAALvIAAC6Pw4UwwG3LSEkA4zPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM39964375",
+    "title": "Soul of Tum Mile (Instrumental)",
+    "artist": "Pritam",
+    "telegram_message_id": 1291,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISKmqN8e7ENL_2pIXuEO9QjDWFddaeAALxIAAC6Pw4UxXtjWRDh5LVPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM75610974",
+    "title": "Tum Mile ~ Rock",
+    "artist": "Shafqat Amanat Ali",
+    "telegram_message_id": 1292,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISKWqN8e7WN3C5Esy8Qtg4TfDPukAVAALwIAAC6Pw4U0RwQ1WOFxQSPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM52857162",
+    "title": "Tu Hi Haqeeqat",
+    "artist": "Javed Ali, Irshan Ashraf & Shadab Faridi",
+    "telegram_message_id": 1294,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISLWqN8e6jO08uudCqcPIRlA04xjaQAAIFIQAC6Pw4U4GCXAQRiafrPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
