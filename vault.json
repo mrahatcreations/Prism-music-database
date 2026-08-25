@@ -10500,5 +10500,50 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAISHGqN8e4n5rG3BIVIPxiPGfG-JA4gAALeIAAC6Pw4U0ozdpigxrD9PQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM34355773",
+    "title": "Saude Bazi",
+    "artist": "Pritam & Anupam Amod",
+    "telegram_message_id": 1280,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISG2qN8e5Esaooz4dTdy2uaDir2hHqAALdIAAC6Pw4UxpKJ57NLCoePQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM29938957",
+    "title": "Saudebazi (Encore)",
+    "artist": "Javed Ali & Pritam",
+    "telegram_message_id": 1281,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISIWqN8e634AQyY86aeq_sFAsKYRLiAALjIAAC6Pw4U2iNzU-Dk0-FPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM12145306",
+    "title": "Ramkatha",
+    "artist": "Pritam & Sukhwinder Singh",
+    "telegram_message_id": 1282,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISH2qN8e6UJsq8tFcJwmgv8c-MlY1pAALhIAAC6Pw4U0PDAAH8yexsYz0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM23322737",
+    "title": "Dil Ibaadat",
+    "artist": "K K",
+    "telegram_message_id": 1283,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISI2qN8e5PGNHU2_9OMts3ihay505YAALqIAAC6Pw4Uw4wc4-gh5k9PQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM46804082",
+    "title": "O Meri Jaan",
+    "artist": "KK & Pritam",
+    "telegram_message_id": 1284,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISJ2qN8e5HziSjHlxvKjOtshOnk-maAALuIAAC6Pw4U0cYOaG2RS8tPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
   }
 ]
