@@ -9951,5 +9951,32 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAIRiWqN7rpwnXNcC74u1SQxrhwZhXgbAAItFAACzOr5UikViT60IZGoPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM96566473",
+    "title": "Watch over You (Solo Acoustic) [Live]",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1218,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRgmqN7rq6iGAOPbwxmJaeHo5Q6074AAImFAACzOr5UnIaXsnCy40wPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM17925690",
+    "title": "Isolation (Live)",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1219,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRg2qN7rrUxYxQ-iot6UcNemw8X9w3AAInFAACzOr5Ur0yuMy_5AIFPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM18455234",
+    "title": "Rise Today (Live)",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1220,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRiGqN7rqOvCWnlFnnZbeLUvwOqk3nAAIsFAACzOr5Up8HzH5y17g7PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
