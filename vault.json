@@ -9366,5 +9366,50 @@
     "file_id": "CQACAgUAAyEFAATr5_TbAAIRIGqN7We9SMfrYfTCkrozA_lfxvGjAAJ0DQACC_5gV_bvGmMBK2oFPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM38704474",
+    "title": "Ghost of Days Gone By",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1153,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRN2qN7rqU_ZwltRqQ90-lS16_Tl82AAL9AwAC-GJ4RjovybfvFWN2PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM14934989",
+    "title": "Wonderful Life \/ Watch over You (Live) [feat. The Parallax Orchestra]",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1154,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRO2qN7rpeYFLhe9SDfbKCgLYMAdnMAAIBBAAC-GJ4RieaNe9PJkiUPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM65631331",
+    "title": "All Hope Is Gone",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1155,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIROGqN7roVfBTgEENdCPLct_ew_FJZAAL-AwAC-GJ4RvaTI2SDM9r8PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM47078721",
+    "title": "Isolation",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1156,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRNmqN7roQm563BBCqGQSICNWvhZYyAAL8AwAC-GJ4RuCw1_NtUjykPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUZJ1000001",
+    "title": "Slip to the Void",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1157,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRNWqN7rphqRUVL0h1j6NP-RbeiPZUAAL7AwAC-GJ4RilkBMxs3oUSPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
