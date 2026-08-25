@@ -10419,5 +10419,50 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAISDGqN8e4AAWjxWRFYulYRlyAKbBfppwACuyAAAuj8OFM9RSHfH_cSFT0E",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM39783855",
+    "title": "Comes The Light ~ Theme",
+    "artist": "Instrumental",
+    "telegram_message_id": 1270,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISC2qN8e4axH-etlXaNrN_c1uZNMS8AAK6IAAC6Pw4U1Nj5F3fTJJaPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM41368997",
+    "title": "Sauda Hai Dil Ka Ye (Encore)",
+    "artist": "Unknown Artist",
+    "telegram_message_id": 1271,
+    "file_id": "BQACAgQAAyEFAATr5_TbAAISGWqN8e49Lc8TNkZAO-lliEB5aGrQAAJKFAAC_aKAUXQqnwsHJGwRPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM46688167",
+    "title": "Sasural Munia Rato Ko Piya",
+    "artist": "Unknown Artist",
+    "telegram_message_id": 1272,
+    "file_id": "BQACAgQAAyEFAATr5_TbAAISFmqN8e6GkbmJd6JuDag3z8FohTZtAAJGFAAC_aKAUQq0WJdvaE06PQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM94577876",
+    "title": "Ramkatha Ye Harlegi Sakal",
+    "artist": "Unknown Artist",
+    "telegram_message_id": 1273,
+    "file_id": "BQACAgQAAyEFAATr5_TbAAISF2qN8e7cW6pLrTRRWHT89IP-XuixAAJFFAAC_aKAUT3PwhQRAAGCuD0E",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM12384521",
+    "title": "Sasural Munia",
+    "artist": "Pritam & Shreya Ghoshal",
+    "telegram_message_id": 1274,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISHmqN8e7obAGZ0Zt4WUmbQzUmOKqRAALgIAAC6Pw4U8sfF59hVp5YPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
