@@ -10977,5 +10977,50 @@
     "file_id": "CQACAgIAAyEFAATr5_TbAAIXhGqOEV-4jmWvg3-x6UgCo45VbcHZAAKLDQAC0L44SPGP0af8S2-gPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "QZ22D2300067",
+    "title": "Please Remember",
+    "artist": "Deafheaven",
+    "telegram_message_id": 1346,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXg2qOEV-O-_qEi7z68LLSIneudth-AAKKDQAC0L44SPZwbgSp_neGPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM84347434",
+    "title": "Ropes Away",
+    "artist": "Adriel Fair",
+    "telegram_message_id": 1347,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXiGqOEV9nFmB4Cwe_5MJnfpBIhq7yAAJ2cgAC322hS4RKEEaJEuM1PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM67445903",
+    "title": "Waves",
+    "artist": "Slowdive",
+    "telegram_message_id": 1348,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXf2qOEV-2qwjep37S3DBKUYPjSU0UAAKGEgACu1SgVxNgrRZSoJqjPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM26101370",
+    "title": "Irresistible",
+    "artist": "Deafheaven",
+    "telegram_message_id": 1349,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXgWqOEV_aVrojZWT2crSwS-NZyIHXAAKIDQAC0L44SGRe4GmOvWFiPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM99015236",
+    "title": "Dream House",
+    "artist": "Deafheaven",
+    "telegram_message_id": 1350,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXgGqOEV-ZmEYhE0tl0I1Yv18-91BmAAKHDQAC0L44SKNUQ3_ambnXPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
