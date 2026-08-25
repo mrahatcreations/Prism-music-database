@@ -11112,5 +11112,50 @@
     "file_id": "CQACAgIAAyEFAATr5_TbAAIXkmqOEV9-che1FGDORYDFopt7SpRRAAL_IgACLGDRSC-xrF9l2RHWPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM24412584",
+    "title": "Mural Legends",
+    "artist": "Adriel Fair",
+    "telegram_message_id": 1361,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXimqOEV8wt30Dst97vfzqsxSbZpVOAAJBMAACmvXoSMK1p1gYrX1dPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM36797826",
+    "title": "Feels So Right",
+    "artist": "Alabama",
+    "telegram_message_id": 1362,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXkGqOEV9F170jZ3Js37FPYuwpd0aqAAKsLgACCJppSE36aDtrKF3BPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM56282057",
+    "title": "Song of the South",
+    "artist": "Alabama",
+    "telegram_message_id": 1363,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXk2qOEV8Yrx-yZHUlpFku65G6xPGiAAJMIAAC5MhQSbNaNRUAAYf26D0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM56957495",
+    "title": "Tennessee River",
+    "artist": "Alabama",
+    "telegram_message_id": 1364,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXlGqOEV_w6f8MSmZCRfLEV0ZutdvOAAIEJwACYzMAAUvYO4Wv5qgbmT0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM44023764",
+    "title": "Roll On (Eighteen Wheeler)",
+    "artist": "Alabama",
+    "telegram_message_id": 1365,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXm2qOEV_2k3KcxoQs8csCX2GWpXKIAAKRMAACYzMISwS-yUDeVkEQPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
