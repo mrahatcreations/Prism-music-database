@@ -2472,5 +2472,105 @@
     "file_id": "CQACAgIAAyEGAATuaIcmAAIGDWqMo3Q9k_2RmVAsGfYg8992ggYBAALjqgACxmeJSkkxYULDYYVEPQQ",
     "quality": "24-bit / 96 kHz Master",
     "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM99634170",
+    "title": "Kill/Ride Medley (Live at Spodek, Katowice, Poland, 9/8/1996)",
+    "artist": "Metallica",
+    "album": "",
+    "telegram_message_id": 365,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIL_mqMpRdi_F7mOO6z-YpNG15XroO4AALVGwACqqRhVlDPlVihSxnQPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "JPVI01744010",
+    "title": "Kiminoyukue",
+    "artist": "KOCHO",
+    "album": "The Ancient Magus Bride O.S.T.1",
+    "telegram_message_id": 366,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMRWqMpRZmvQgAAd0bm8Ood2oGN1XMFgAC7RsAAr1qgVbG3prt2AP93j0E",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "005000000014",
+    "title": "Kobita Shuk Urao",
+    "artist": "Ayub Bachchu",
+    "album": "Mirttu Kaba",
+    "telegram_message_id": 367,
+    "file_id": "CQACAgQAAyEFAATuaIcmAAIEi2qMo1Y0VuB3xW8KPnqG92dlcwN5AAItEAACZ205UX8O4h5PHX_uPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "DGA0S2449982",
+    "title": "Korona Baron",
+    "artist": "Balam",
+    "album": "Balam 2",
+    "telegram_message_id": 368,
+    "file_id": "CQACAgUAAyEGAATuaIcmAAIF3GqMo2-K98FUuXAAAdO8AgsrPm6BSQAC5QgAAit1sVSTKcC_Cpypsz0E",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "QZK6J2428297",
+    "title": "Kotha Daw",
+    "artist": "Vikings",
+    "album": "Jiboner Kolahol",
+    "telegram_message_id": 369,
+    "file_id": "CQACAgUAAyEGAATuaIcmAAIIc2qMo6OSbUFOhN8M9OWiozYJQyV2AAJsCgACtrFJVJpfNsvr_5X7PQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "ITG272600074",
+    "title": "Let There Be Shred",
+    "artist": "Megadeth",
+    "album": "Megadeth",
+    "telegram_message_id": 370,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMOmqMpRaPa_vivJkTJD54nmnBRNXNAALyCAACVuJZR477qzvTXkHTPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "JPVI01743960",
+    "title": "Libero ala",
+    "artist": "Miu Sakamoto",
+    "album": "The Ancient Magus Bride O.S.T.1",
+    "telegram_message_id": 371,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMQ2qMpRaMXkdPk-NTuMDlBeMo51tOAALrGwACvWqBVumx_UJQDPtdPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "QZNWU2071420",
+    "title": "Lilabali (feat. Arshi)",
+    "artist": "Muza",
+    "album": "Lilabali (feat. Arshi)",
+    "telegram_message_id": 372,
+    "file_id": "CQACAgUAAyEGAATuaIcmAAIGP2qMo3syWPFk_cxy2xiCY2nx7kPGAAIJCQAC1bPIVG3txaEVwwrCPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "FRX762081096",
+    "title": "Lukochuri",
+    "artist": "Balam",
+    "album": "Balam",
+    "telegram_message_id": 373,
+    "file_id": "CQACAgUAAyEGAATuaIcmAAIF1WqMo29rz1A5KHQ3g3bAeKj_4Nm1AAK6BwACbgPAVIpDT754YE_SPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "ITG272600077",
+    "title": "Made to Kill",
+    "artist": "Megadeth",
+    "album": "Megadeth",
+    "telegram_message_id": 374,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMPWqMpRZ8lgABJtXcK0Nf_8uweX_RWgACTg4AAmgEkUedzHdVU5UM-D0E",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
   }
 ]
