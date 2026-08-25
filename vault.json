@@ -4742,5 +4742,105 @@
     "file_id": "CQACAgEAAyEFAATr5_TbAAIB22qNWCpde_R02lgsffGeoRaZHlEsAAIsBQACNc9JRVHMo8jy_oaFPQQ",
     "quality": "24-bit / 96 kHz Master",
     "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUG12309964",
+    "title": "One Of The Girls (A Cappella)",
+    "artist": "The Weeknd",
+    "album": "One of the Girls",
+    "telegram_message_id": 595,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIB3mqNWCqBBeIO_KhHPf1uWi_klz7TAAIvBQACNc9JRWzS10yRKONNPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUG12506438",
+    "title": "Opalite",
+    "artist": "Taylor Swift",
+    "album": "The Life of a Showgirl",
+    "telegram_message_id": 596,
+    "file_id": "CQACAgIAAyEFAATuaIcmAAIMCWqMpRc-Wdw_X0hNH9g0RSfCGoS7AALfhAAC2oP4SoBex61Dh_39PQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBCQV1714819",
+    "title": "Open Car (2017 Remaster)",
+    "artist": "Porcupine Tree",
+    "album": "Deadwing (Remastered)",
+    "telegram_message_id": 597,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBKmqNVZv7Nt7iokUWpFu5VUkZi7TWAAI8DwACBK6xV2tsx6bWn-5nPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM61597435",
+    "title": "Overkill (Live at Earls Court, London, UK, 10/12/1996)",
+    "artist": "Metallica",
+    "album": "",
+    "telegram_message_id": 598,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMBmqMpRfx94vGcKwdBw634Qk42npOAALeGwACqqRhVp4pbYR509O2PQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBDHC2557502",
+    "title": "Overture 1928 (Live à Paris 2024)",
+    "artist": "Dream Theater",
+    "album": "Quarantième: Live à Paris",
+    "telegram_message_id": 599,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMJWqMpRYfLcvrB1IqtrphTT2VW9zCAAKhBgACWcJIRRyTihiVtd2RPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBDHC2557505",
+    "title": "Panic Attack (Live à Paris 2024)",
+    "artist": "Dream Theater",
+    "album": "Quarantième: Live à Paris",
+    "telegram_message_id": 600,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMKGqMpRZYhjHsWjC4rMFjEx5esorTAAK6BgACWcJIRbHBVYK7HCMcPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM35687585",
+    "title": "Phiriye Dewar Gaan (Original)",
+    "artist": "Rupam Islam",
+    "album": "",
+    "telegram_message_id": 601,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIBqGqNVqSA2Iq2DrXv-sxSIlmGw5BdAALzFQACnaxoULP-LrgJjlKePQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBCQV1716388",
+    "title": "Revenant (Live)",
+    "artist": "Porcupine Tree",
+    "album": "Arriving Somewhere",
+    "telegram_message_id": 602,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBLWqNVZsaOi19NROLF4Xpgs70kndrAAJDDwACBK6xVwHUqE9kJH5dPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM64417833",
+    "title": "River Theme",
+    "artist": "Михаил Казанок",
+    "album": "",
+    "telegram_message_id": 603,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBn2qNVqTlZNAymhd1qwUEBtMvIFTMAAKLDQACFlOxVLKz6kORUEZrPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBCQV0700908",
+    "title": "Russia On Ice",
+    "artist": "Porcupine Tree",
+    "album": "Lightbulb Sun",
+    "telegram_message_id": 604,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBOWqNVZvS-gXzMWxu9H3eRxrrDi4nAAKkDQACmO65VzZwFk7xDmJCPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
   }
 ]
