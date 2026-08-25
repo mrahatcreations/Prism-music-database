@@ -10068,5 +10068,50 @@
     "file_id": "CQACAgIAAyEFAATr5_TbAAIR6GqN8e5AU4w2DrHvYXpKhiUEBVo2AALIaAACDKJASwmncXsDoHCmPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "INS182303587",
+    "title": "Na Bhoola Tujhe",
+    "artist": "Geetha Madhuri",
+    "telegram_message_id": 1231,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR6mqN8e7Ah67iKmvWRydwYmQlPGYbAAIgZgACmTpBS2qHbX2xBzg6PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM58958162",
+    "title": "Aur Mohabbat Kitni Karoon",
+    "artist": "Pritam, Arijit Singh, SANDEEP SRIVASTAVA",
+    "telegram_message_id": 1232,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR72qN8e5ajUxBbP7m7cGqgWHDfUNzAAL0gwACMHSZSfkVIZp55aPSPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM16983859",
+    "title": "Qayde Se (From \"Metro ... In Dino\")",
+    "artist": "Pritam, Arijit Singh & Amitabh Bhattacharya",
+    "telegram_message_id": 1233,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR9mqN8e5CKZEPpc1NQ4wX5CevhPpwAAJgjQACqGyASF7KbQPDATm6PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM51565650",
+    "title": "I Had Some Help (feat. Morgan Wallen)",
+    "artist": "Post Malone",
+    "telegram_message_id": 1234,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR9WqN8e7XgIrfn0_pt8f7HZxNiNgdAALghQACzYOZSV2MzC5v_cTBPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM80093595",
+    "title": "Mausam",
+    "artist": "Pritam, Arijit Singh, Qaisar Ul Jafri, SANDEEP SRIVASTAVA",
+    "telegram_message_id": 1235,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIR8WqN8e4AAXVdHUNdvgd_hx1Uyo_sngAC9oMAAjB0mUnqNEwXFb7Vcz0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
