@@ -10601,13 +10601,13 @@
     "format": "Lossless Master"
   },
   {
-    "isrc": "USUM39964375",
+    "isrc": "USUM65066403",
     "title": "Soul of Tum Mile (Instrumental)",
     "artist": "Pritam",
-    "telegram_message_id": 1291,
-    "file_id": "CQACAgQAAyEFAATr5_TbAAISKmqN8e7ENL_2pIXuEO9QjDWFddaeAALxIAAC6Pw4UxXtjWRDh5LVPQQ",
+    "telegram_message_id": 1309,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISM2qN8e7JgKi0rFVc8cu6S_8oeRXoAAILIQAC6Pw4U9fOubdPxV-jPQQ",
     "quality": "FLAC",
-    "format": "Lossless Master"
+    "format": "16-bit \/ 44.1 kHz FLAC"
   },
   {
     "isrc": "USUM75610974",
@@ -10705,6 +10705,42 @@
     "artist": "Sree Ramachandra & Neha Bhasin",
     "telegram_message_id": 1304,
     "file_id": "CQACAgIAAyEFAATr5_TbAAISO2qN8e6fBDIkRHqQNg5O93XAw7VeAALZHgACR83QS6gUFF_zRM3HPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM80238981",
+    "title": "Madhubala",
+    "artist": "Ali Zafar & Shweta Pandit",
+    "telegram_message_id": 1305,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISOGqN8e6MGyZLnIKGDMf6YafyrNqlAALWHgACR83QSzt9cyaWiwtqPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM27076114",
+    "title": "Dhunki",
+    "artist": "Neha Bhasin",
+    "telegram_message_id": 1306,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISNWqN8e5CPRxwZNiA_KCXRGbkahOFAALTHgACR83QS7drsdYPbGY-PQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM64959533",
+    "title": "Choomantar",
+    "artist": "Benny Dayal & Aditi Singh Sharma",
+    "telegram_message_id": 1307,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISNmqN8e4FLu8suH2QHODRwBCRbnJaAALUHgACR83QS3PkUt5V7494PQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM26481996",
+    "title": "Isq Risk",
+    "artist": "Rahat Fateh Ali Khan",
+    "telegram_message_id": 1308,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISN2qN8e5xIMSCHBV6lTw7wFzh0irbAALVHgACR83QS8kxmiMnxGp3PQQ",
     "quality": "FLAC",
     "format": "Lossless Master"
   }
