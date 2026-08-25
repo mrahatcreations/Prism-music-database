@@ -11247,5 +11247,50 @@
     "file_id": "CQACAgIAAyEFAATr5_TbAAIXnWqOEV9g5kGsDi67lX3sX9H09w-_AAL5ZQACQdVxShfBrd1R1gPoPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM51999503",
+    "title": "Flying (Remastered)",
+    "artist": "Anathema",
+    "telegram_message_id": 1376,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXpWqOEV9TkI_d7cvRGVC1p6XaUa6zAALJDAACrgawSZVUaENLfoOjPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM45883259",
+    "title": "Forty Hour Week (For a Livin')",
+    "artist": "Alabama",
+    "telegram_message_id": 1377,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXnmqOEV8oZHu3k7cugQPqhfhXe5pkAAKqRQACSQXxSqj9VLc-lewPPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM24049302",
+    "title": "Jai Jai Jai Bajrangbali (From \"Bajrangi\")",
+    "artist": "Pawan Singh, Pyarelal Yadav & Rajnish Mishra",
+    "telegram_message_id": 1378,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXoWqOEV-al8oT6uDGDuvjzNILVlN7AAKpcAACNyewS22_TMqeH68JPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM23290955",
+    "title": "Southern Star",
+    "artist": "Alabama",
+    "telegram_message_id": 1379,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXoGqOEV_dc5FJDD7BQDk_bu0TH3cDAAIhVgACtt-wS4S8xbrd9Qg1PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM42235575",
+    "title": "Pal Pal",
+    "artist": "AFUSIC & AliSoomroMusic",
+    "telegram_message_id": 1380,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXpGqOEV9ASwg3_Um80MZjhxJlJYrkAAIHFgACcsO4V-Vt_jobw1hbPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
   }
 ]
