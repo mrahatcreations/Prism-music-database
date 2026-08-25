@@ -4642,5 +4642,105 @@
     "file_id": "CQACAgUAAyEFAATr5_TbAAIBLmqNVZuBF_-Dnlvu3p5uDlyafKTUAAJJDwACBK6xV3ZetSYJkH-FPQQ",
     "quality": "24-bit / 96 kHz Master",
     "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM42149850",
+    "title": "Motorbreath (Live at Oslo Spektrum, Oslo, Norway, 11/23/1996)",
+    "artist": "Metallica",
+    "album": "",
+    "telegram_message_id": 585,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAMZao00_Gx7QeZinWmBORTvcbxr1nUAApwbAAKqpGFWYTxgcod5Ozw9BA",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBCQV1000011",
+    "title": "My Ashes (Live)",
+    "artist": "Porcupine Tree",
+    "album": "Anesthetize",
+    "telegram_message_id": 586,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBE2qNVZsezUe7gKS8n1fH19FH3uZ7AAK8EQACF46RV0cbB8UU-sVqPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM20190133",
+    "title": "Night Theme",
+    "artist": "Михаил Казанок",
+    "album": "",
+    "telegram_message_id": 587,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBnWqNVqQCbjKKpcdptEkTAeaP_vdoAAKJDQACFlOxVGqhEDZ1u6fzPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "QZFYX2642178",
+    "title": "No Fear (La La La)",
+    "artist": "Sunday Ballads",
+    "album": "No Fear (La La La)",
+    "telegram_message_id": 588,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBnmqNVqTgSXTc9XdT_ozheSVAWz0QAAKKDQACFlOxVPkBsnb9xIROPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBCQV1000018",
+    "title": "Normal (Live)",
+    "artist": "Porcupine Tree",
+    "album": "Anesthetize",
+    "telegram_message_id": 589,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIBGWqNVZuKiPmeuvMyD_8I4Wetxu50AALFEQACF46RV_srUG5Whw5zPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM24185551",
+    "title": "Nothing Else Matters (Live at Oslo Spektrum, Oslo, Norway, 11/23/1996)",
+    "artist": "Metallica",
+    "album": "",
+    "telegram_message_id": 590,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAMNao00_AZg47hliWOV9aUH0Ne3jUcAAoobAAKqpGFWf014lqbBwrA9BA",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBDHC2557516",
+    "title": "Octavarium (Live à Paris 2024)",
+    "artist": "Dream Theater",
+    "album": "Quarantième: Live à Paris",
+    "telegram_message_id": 591,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMM2qMpRamVjdDqtgt-d5_iSKuy_wYAAIeBwACWcJIRQN5srN2EoJjPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM80965911",
+    "title": "One (Live at Oslo Spektrum, Oslo, Norway, 11/23/1996)",
+    "artist": "Metallica",
+    "album": "",
+    "telegram_message_id": 592,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAMKao00_MpZhRHsQMo-b_hC2VYOs-QAAocbAAKqpGFWj56XSB2WuWg9BA",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM33438440",
+    "title": "One (Live at Saskatchewan Place, Saskatoon, SK, Canada, 5/26/1997)",
+    "artist": "Metallica",
+    "album": "",
+    "telegram_message_id": 593,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAMmao00_N8OrKdc30tap85lHfRyy3wAAsYbAAKqpGFWnNecIT1gX8o9BA",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUG12303881",
+    "title": "One Of The Girls",
+    "artist": "The Weeknd",
+    "album": "The Idol Episode 4 (Music from the HBO Original Series)",
+    "telegram_message_id": 594,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIB22qNWCpde_R02lgsffGeoRaZHlEsAAIsBQACNc9JRVHMo8jy_oaFPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
   }
 ]
