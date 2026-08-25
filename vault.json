@@ -9915,5 +9915,41 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAIRgWqN7rpDXMCdzViCENvfXC32he9oAAIlFAACzOr5UlkVgWX8nDaVPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM75488706",
+    "title": "Waters Rising (Live)",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1214,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRgGqN7rqCaqBGFat6YibfnEU4ThNnAAIkFAACzOr5UpirjkFh8eF-PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM97805711",
+    "title": "Open Your Eyes",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1215,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRhmqN7roI4I5RsTYH6Zng81MHjUnOAAIqFAACzOr5Um22t_5oXu29PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM70749613",
+    "title": "Blackbird",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1216,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRhGqN7rokLLL42QAB6J9XrAWqXDZ-jgACKBQAAszq-VJ6c0Sdk8PJAT0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM51402253",
+    "title": "Poison in Your Veins (Live)",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1217,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRiWqN7rpwnXNcC74u1SQxrhwZhXgbAAItFAACzOr5UikViT60IZGoPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
