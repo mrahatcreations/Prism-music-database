@@ -9780,5 +9780,50 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAIRcmqN7rq-WD1yqL_f2Zwm5ZgwiSuCAAItEgAC0O_JUbcRu7Lq0kKbPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM25519262",
+    "title": "Island Of Fools",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1199,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRdWqN7rqrXtSWE7cDxnyQ40OsZmlJAAIwEgAC0O_JUaGTUmYaFPwtPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM58219000",
+    "title": "Poison In Your Veins",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1200,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRbmqN7roycuL-KIc5_tIBuxx3q32TAAIpEgAC0O_JUQV01EzlYvkBPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM88224579",
+    "title": "Twilight",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1201,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRdGqN7rq4vLYLsuQtZY1aX7VGbn5YAAIvEgAC0O_JUR4g2eFYZy2JPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN261773010",
+    "title": "Crows On a Wire",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1202,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRc2qN7rqcCL_1K0c-6VbErCAuotpXAAIuEgAC0O_JUVm_In4TQiYRPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM36685729",
+    "title": "This Side of Fate",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1203,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRcWqN7rqnJZdVhGHm_6kPFuoFqjfbAAIsEgAC0O_JUX4wUzljj6wyPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
