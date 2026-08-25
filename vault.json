@@ -10338,5 +10338,41 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAISCGqN8e5iMJbWSOPAvV9aMv-Lpn5ZAAK2IAAC6Pw4U2H4esuq--sPPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM64182960",
+    "title": "Chammak Challo ~ ReMix 2",
+    "artist": "DJ Khushi",
+    "telegram_message_id": 1261,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISDmqN8e5WD8eHPF-WHmXv6Zklg62YAAK9IAAC6Pw4U47f2N-usLNlPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM23072890",
+    "title": "Chammak Challo ~ International Version",
+    "artist": "Akon",
+    "telegram_message_id": 1262,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISEGqN8e73bpZx01sTgUIPoncfFjkVAAK_IAAC6Pw4U2YcZ-yceariPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM39498393",
+    "title": "Song Of The End ~ Theme",
+    "artist": "Instrumental",
+    "telegram_message_id": 1263,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISDWqN8e6DSSp3q87URyGU2r6d4n0wAAK8IAAC6Pw4UxDFjvm2ifyYPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM11716387",
+    "title": "Man Ki Mat Pe Mat Chaliyo",
+    "artist": "Unknown Artist",
+    "telegram_message_id": 1264,
+    "file_id": "BQACAgQAAyEFAATr5_TbAAISFGqN8e6FmkgnFMUhBNAZj304bvj2AAJDFAAC_aKAUcIyu3lCC4PBPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
   }
 ]
