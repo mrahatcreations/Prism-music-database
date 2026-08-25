@@ -9573,5 +9573,41 @@
     "file_id": "CQACAgEAAyEFAATr5_TbAAIRSWqN7rrAvrZdrXM6hP3Z5yHvvUzYAAJLAwACrg_pRyK_BlSSY3ayPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM65715812",
+    "title": "Native Son",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1176,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRSmqN7rpreueXr98UU5ripeHS5rPtAAJMAwACrg_pR-FKsonW5p4sPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN261982410",
+    "title": "Forever Falling",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1177,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRT2qN7rqgn8nAQmfcdIwTcZdnvh8AA1EDAAKuD-lHJyyOct3LG709BA",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN261982413",
+    "title": "Tear Us Apart",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1178,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRUmqN7rqJGpJ102dpjEN5TElu1nUgAAJUAwACrg_pRwV-t3J8COa0PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN261982411",
+    "title": "Clear Horizon",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1179,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRUGqN7roBXsxYcs0d1lVynSJDrpPUAAJSAwACrg_pR4DMG9a7B4brPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
