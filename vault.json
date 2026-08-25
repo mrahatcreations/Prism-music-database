@@ -9483,5 +9483,50 @@
     "file_id": "CQACAgEAAyEFAATr5_TbAAIRPWqN7rrDycGhQS8I136y9jLJcxejAAIDBAAC-GJ4RvAqp-7pYR_nPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM32878967",
+    "title": "Cour D' Alene",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1166,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRQGqN7roggpNsRcrfb_Rr2V_6bFzuAAIGBAAC-GJ4Rmxt1PtRQTgNPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM17116518",
+    "title": "Never Born to Follow",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1167,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRRWqN7rqSDERUJLIif6ZmMWKs96EEAAILBAAC-GJ4RrXMaXgvPa0HPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM52096535",
+    "title": "In the Deep",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1168,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRSGqN7rplnNXVAXHrh2hAPCOHYGNKAAJKAwACrg_pR4KZVZumx0-tPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM44958156",
+    "title": "Pay No Mind",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1169,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRTmqN7rq9wk13MiXfdx3FCQO3C_5WAAJQAwACrg_pRxZ1FWwT40HePQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM13452078",
+    "title": "Indoctrination",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1170,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRTGqN7rokI6h7OPJYQzuKD40nsL5jAAJOAwACrg_pR-u_cHlHjJC3PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
