@@ -10932,5 +10932,50 @@
     "file_id": "CQACAgUAAyEFAATr5_TbAAIXfGqOEV9LB9x-ERL0LodsJYKX0jhlAAKDEgACu1SgVzak7CCAqxckPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM60100154",
+    "title": "She Calls",
+    "artist": "Slowdive",
+    "telegram_message_id": 1341,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXemqOEV-c3Yn6ShosG-qjfpyKcTulAAKBEgACu1SgVyCgTWksCO9BPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM31682136",
+    "title": "The Sadman",
+    "artist": "Slowdive",
+    "telegram_message_id": 1342,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXfmqOEV-lkdLsCzr8I14AAVkcJ3rPPQAChRIAArtUoFcedhJFg6Zz-T0E",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "QZ22D2300070",
+    "title": "The Pecan Tree",
+    "artist": "Deafheaven",
+    "telegram_message_id": 1343,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXhmqOEV_QJXokXt_e2_ZbzUj67ZMUAAKNDQAC0L44SHXJThgRVSnCPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM26511390",
+    "title": "EDEN (Original Film Score)",
+    "artist": "Daniel Dubb",
+    "telegram_message_id": 1344,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXh2qOEV9M0g3FGpicEPDqYoNoUX_eAALvbQACYJSgS14BT8mOSN5ZPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz FLAC"
+  },
+  {
+    "isrc": "USUM45995169",
+    "title": "Vertigo",
+    "artist": "Deafheaven",
+    "telegram_message_id": 1345,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAIXhGqOEV-4jmWvg3-x6UgCo45VbcHZAAKLDQAC0L44SPGP0af8S2-gPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
