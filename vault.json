@@ -10662,5 +10662,50 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAISMGqN8e5YHgIlFY957X_AIqU460UMAAIIIQAC6Pw4U5ESWhGJw-IqPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "INS170900410",
+    "title": "Dil Ibaadat (Rock)",
+    "artist": "KK",
+    "telegram_message_id": 1300,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISMWqN8e4rx3R1oGwXS6r7Eqmhh84kAAIJIQAC6Pw4Uy3sesIqmrcbPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM27447706",
+    "title": "Choomantar ~ ReMix",
+    "artist": "Benny Dayal & Aditi Singh Sharma",
+    "telegram_message_id": 1301,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISOmqN8e53E148bxqapTDUht1rNhC0AALYHgACR83QS9Xr-nljUUctPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM43883171",
+    "title": "Do Dhaari Talwaar",
+    "artist": "Shahid Mallya & Shweta Pandit",
+    "telegram_message_id": 1302,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISOWqN8e44g9jJWEm29ZrJ5YhxLncoAALXHgACR83QS8Z_vVYbl28pPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM24646415",
+    "title": "Mere Brother Ki Dulhan",
+    "artist": "K K",
+    "telegram_message_id": 1303,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISNGqN8e6iH_kTPchZm3mWPpvdsbm0AALSHgACR83QS_RYYyK2nVRpPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
+  },
+  {
+    "isrc": "USUM53664388",
+    "title": "Isq Risk ~ Risky Mix",
+    "artist": "Sree Ramachandra & Neha Bhasin",
+    "telegram_message_id": 1304,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISO2qN8e6fBDIkRHqQNg5O93XAw7VeAALZHgACR83QS6gUFF_zRM3HPQQ",
+    "quality": "FLAC",
+    "format": "Lossless Master"
   }
 ]
