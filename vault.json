@@ -10682,13 +10682,13 @@
     "format": "Lossless Master"
   },
   {
-    "isrc": "USUM43883171",
+    "isrc": "USUM23171912",
     "title": "Do Dhaari Talwaar",
     "artist": "Shahid Mallya & Shweta Pandit",
-    "telegram_message_id": 1302,
-    "file_id": "CQACAgIAAyEFAATr5_TbAAISOWqN8e44g9jJWEm29ZrJ5YhxLncoAALXHgACR83QS8Z_vVYbl28pPQQ",
+    "telegram_message_id": 1311,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISQmqN8e6XGR6uzSa92WM-JqribWVoAAKrFQACIqbBSIVtCP4-HjLkPQQ",
     "quality": "FLAC",
-    "format": "Lossless Master"
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   },
   {
     "isrc": "USUM24646415",
@@ -10736,12 +10736,39 @@
     "format": "Lossless Master"
   },
   {
-    "isrc": "USUM26481996",
+    "isrc": "USUM45196266",
     "title": "Isq Risk",
     "artist": "Rahat Fateh Ali Khan",
-    "telegram_message_id": 1308,
-    "file_id": "CQACAgIAAyEFAATr5_TbAAISN2qN8e5xIMSCHBV6lTw7wFzh0irbAALVHgACR83QS8kxmiMnxGp3PQQ",
+    "telegram_message_id": 1310,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISPGqN8e5EaTOCbH1tdRaz_JLmxAJfAAIkDgACa42ISOmrUqGDJY-UPQQ",
     "quality": "FLAC",
-    "format": "Lossless Master"
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM42549443",
+    "title": "Madhubala",
+    "artist": "Ali Zafar",
+    "telegram_message_id": 1312,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISQWqN8e6DgI2EI1qj_fOaePj82XISAALCDgACfiEoSe5jVfIr12DXPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM71849385",
+    "title": "Dhunki Remix",
+    "artist": "Neha Bhasin",
+    "telegram_message_id": 1313,
+    "file_id": "CQACAgIAAyEFAATr5_TbAAISPmqN8e4rBhIOODWmNeY3SbQVh8tuAAKFFQACIqbBSO7EVt04FKHvPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM85274089",
+    "title": "Tum Tum (From \"Enemy - Tamil\")",
+    "artist": "Thaman S, Sri Vardhini, Aditi Bhavaraju, Satya Yamini, Roshini JKV…",
+    "telegram_message_id": 1314,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAISRWqN8e5ckKgC48CmhobnH6Msm-KRAALHUwACuGB5UckhbDzLexlhPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
