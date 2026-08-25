@@ -9609,5 +9609,23 @@
     "file_id": "CQACAgEAAyEFAATr5_TbAAIRUGqN7roBXsxYcs0d1lVynSJDrpPUAAJSAwACrg_pR4DMG9a7B4brPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN261982414",
+    "title": "Dying Light",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1180,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRU2qN7rpxpz6S792zHaRVfevwhXSLAAJVAwACrg_pR_loYoOeE9tKPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM57401013",
+    "title": "Walking on the Sky",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1181,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRUWqN7rpjCaJMdBVFtCT3ciWpv98DAAJTAwACrg_pRy4gc2HYDPKVPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
