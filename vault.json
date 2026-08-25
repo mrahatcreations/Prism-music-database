@@ -9825,5 +9825,50 @@
     "file_id": "CQACAgQAAyEFAATr5_TbAAIRcWqN7rqnJZdVhGHm_6kPFuoFqjfbAAIsEgAC0O_JUX4wUzljj6wyPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM87941311",
+    "title": "Last of Our Kind (Bonus Track)",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1204,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRd2qN7roDq7F19TKcpw-V6hB3XkXzAAIyEgAC0O_JUVa-PJ9VTWf9PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM51208392",
+    "title": "The Last Hero",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1205,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRdmqN7rojDZKzhIkuIII33x0ynriaAAIxEgAC0O_JUSZRhqKpjlLEPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM28368484",
+    "title": "Cry of Achilles (Live)",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1206,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRfGqN7roOWek8dIR9ytoTLj4HdSRdAAIgFAACzOr5UqaUId0PbenNPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM23649342",
+    "title": "Farther Than the Sun (Live)",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1207,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIRfmqN7rqcXbAij_QB213fXvMbR9x7AAIiFAACzOr5UvNsw92sRM5nPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM45560865",
+    "title": "The Writing on the Wall (Live) [feat. The Parallax Orchestra]",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1208,
+    "file_id": "CQACAgQAAyEFAATr5_TbAAIReGqN7rq9TiVBl4MPGpt2--NqFuULAAIcFAACzOr5UsRNF3vgiXX3PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
