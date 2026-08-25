@@ -2172,5 +2172,105 @@
     "file_id": "CQACAgUAAyEGAATuaIcmAAIIe2qMo6P43rjQYa6K0b-kC1Z5XtkUAAKmLAACDrGhVFpdhbDKp6vcPQQ",
     "quality": "24-bit / 96 kHz Master",
     "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUG12600409",
+    "title": "Goals",
+    "artist": "LISA",
+    "album": "Goals (FIFA World Cup 2026™)",
+    "telegram_message_id": 319,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMWGqMpRaJROdPGnXn99PT8SOMmMiKAAJCIwACPHSgVH4MG5kqtsmLPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "FR6V81505285",
+    "title": "Hahakar",
+    "artist": "Vikings",
+    "album": "Jiboner kolahol",
+    "telegram_message_id": 324,
+    "file_id": "CQACAgUAAyEGAATuaIcmAAIGEmqMo3ZumJxN6sB-5viwd8hVE6wrAAJ-CgACtrFJVNwWmKPtcUGCPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "JPVI01813580",
+    "title": "Hanakazoe",
+    "artist": "Akino Arai",
+    "album": "The Ancient Magus Bride O.S.T.2",
+    "telegram_message_id": 331,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMT2qMpRbGc7sBNs2JHSPMWZIe6_k-AAL3GwACvWqBVmJTSFh3kdWqPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "QM4TW1712859",
+    "title": "Hariye Giyechhi",
+    "artist": "Arnob",
+    "album": "Songs from World Tour '08",
+    "telegram_message_id": 338,
+    "file_id": "CQACAgIAAyEGAATuaIcmAAIGC2qMo3S0CWRyXjWZ9yamnxFCNROwAALncgACgeppS4w8k2vRlTbBPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "JPVI01729810",
+    "title": "Here",
+    "artist": "Junna",
+    "album": "Here",
+    "telegram_message_id": 339,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIMQmqMpRYHpFjOMsNlyDA2FtcrzzGnAALqGwACvWqBVsZzqGTeWAfKPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "ITG272600073",
+    "title": "Hey God?!",
+    "artist": "Megadeth",
+    "album": "Megadeth",
+    "telegram_message_id": 340,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMOWqMpRZUk0uo2X_UKqnLOsZ9Zi1NAAJCDgACaASRR3TKsodzTrSYPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUM39582675",
+    "title": "Hijibiji",
+    "artist": "Jun Banarjee",
+    "album": "",
+    "telegram_message_id": 341,
+    "file_id": "CQACAgUAAyEFAATuaIcmAAIEYmqMo1LbxIqvsjEpq28csGo924onAAKSCgACbRoJVAUBx2XGIWLcPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBDHC2557507",
+    "title": "Hollow Years (Live à Paris 2024)",
+    "artist": "Dream Theater",
+    "album": "Quarantième: Live à Paris",
+    "telegram_message_id": 342,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMKmqMpRaPTtVeG-XUxuAQfenN9z0aAALPBgACWcJIRSzgosPgz_wkPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "GBDHC2557517",
+    "title": "Home (Live à Paris 2024)",
+    "artist": "Dream Theater",
+    "album": "Quarantième: Live à Paris",
+    "telegram_message_id": 343,
+    "file_id": "CQACAgEAAyEFAATuaIcmAAIMNGqMpRaovMV624TNu0nK9h1JCM_TAAIhBwACWcJIRYpeUznrajOAPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
+  },
+  {
+    "isrc": "USUG12506446",
+    "title": "Honey",
+    "artist": "Taylor Swift",
+    "album": "The Life of a Showgirl",
+    "telegram_message_id": 344,
+    "file_id": "CQACAgIAAyEFAATuaIcmAAIMEWqMpRYJBrFvF7TeOzOvxp5jJRBSAALohAAC2oP4SrlZStZ-q-VXPQQ",
+    "quality": "24-bit / 96 kHz Master",
+    "format": "24-bit / 96 kHz Master"
   }
 ]
