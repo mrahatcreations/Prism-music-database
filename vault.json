@@ -9627,5 +9627,32 @@
     "file_id": "CQACAgEAAyEFAATr5_TbAAIRUWqN7rpjCaJMdBVFtCT3ciWpv98DAAJTAwACrg_pRy4gc2HYDPKVPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM14677780",
+    "title": "Last Rites",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1182,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRVGqN7rr3Rpdm8syvu7S66MuYfL68AAJWAwACrg_pR5agThFIWV4WPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN262206002",
+    "title": "Dead Among the Living",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1183,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRYWqN7rps2tAIklfb49-mLzjjJ_4WAAKqAwAC-GJ4RlcQXwa6KKBXPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN262206004",
+    "title": "Sin After Sin",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1184,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRY2qN7rqS3tqQq8XUKyrlrqGSRdn2AAKsAwAC-GJ4Rumu4pPd4n75PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
