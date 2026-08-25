@@ -10842,5 +10842,50 @@
     "file_id": "CQACAgUAAyEFAATr5_TbAAIXcWqOEV9ekbkbz3194teNSYybhP3TAAJ3EgACu1SgV_WVh6z4Eg9nPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM34384292",
+    "title": "Brighter",
+    "artist": "Slowdive",
+    "telegram_message_id": 1331,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXcmqOEV9LwMEdwO7LM2ooJIQ7QL4AA3kSAAK7VKBXxvTzW8Ed2oc9BA",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM68924068",
+    "title": "Catch the Breeze",
+    "artist": "Slowdive",
+    "telegram_message_id": 1332,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXc2qOEV-CSVa94NyZYGa62Xo3vJGlAAJ6EgACu1SgV1cTl9olxeX_PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM52484305",
+    "title": "Erik's Song",
+    "artist": "Slowdive",
+    "telegram_message_id": 1333,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXdWqOEV9w5O9QKdBBzRkGMyU0S4u1AAJ8EgACu1SgVwLmetAK3xXhPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM64203142",
+    "title": "Primal",
+    "artist": "Slowdive",
+    "telegram_message_id": 1334,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXeWqOEV8ZgxBGAAG_wgAB7c1I9ch-ykgAAoASAAK7VKBXtxWbb4syt6U9BA",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM23257774",
+    "title": "Golden Hair",
+    "artist": "Slowdive",
+    "telegram_message_id": 1335,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXdmqOEV8otSQHAdRwcNYwIXaLu8_OAAJ9EgACu1SgV75-uyElcfTKPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
