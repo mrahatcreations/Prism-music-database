@@ -10887,5 +10887,50 @@
     "file_id": "CQACAgUAAyEFAATr5_TbAAIXdmqOEV8otSQHAdRwcNYwIXaLu8_OAAJ9EgACu1SgV75-uyElcfTKPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM42339571",
+    "title": "Spanish Air",
+    "artist": "Slowdive",
+    "telegram_message_id": 1336,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXfWqOEV_f4k0lVF50U_9Lx23mDoCGAAKEEgACu1SgV6U51ArN91yfPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM42140290",
+    "title": "Morningrise",
+    "artist": "Slowdive",
+    "telegram_message_id": 1337,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXeGqOEV93o_q0l45wBXpVR4wj19chAAJ_EgACu1SgVxRvSrXJ6jV8PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "US23A1529647",
+    "title": "Shine",
+    "artist": "Slowdive",
+    "telegram_message_id": 1338,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXe2qOEV9eo7xrNHOq0nnUdxe7O-1vAAKCEgACu1SgVxpBH-vXQDo-PQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM45257528",
+    "title": "Losing Today",
+    "artist": "Slowdive",
+    "telegram_message_id": 1339,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXd2qOEV8-ehmf-N-rgp6LHBbg-rkCAAJ-EgACu1SgV57z_QGcEt0NPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "GBAAW0002032",
+    "title": "Slowdive",
+    "artist": "Slowdive",
+    "telegram_message_id": 1340,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXfGqOEV9LB9x-ERL0LodsJYKX0jhlAAKDEgACu1SgVzak7CCAqxckPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
