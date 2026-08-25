@@ -10797,5 +10797,50 @@
     "file_id": "CQACAgIAAyEFAATr5_TbAAISP2qN8e7RpNiBlpCN6-6BdXlvuqipAALWFQACKYgBScRpxTc8LT9lPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM85041888",
+    "title": "Avalyn II",
+    "artist": "Slowdive",
+    "telegram_message_id": 1326,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXcGqOEV-YM6olHT9y4NtRq7z0AQckAAJ1EgACu1SgV_w1LEvz3-EHPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM99988260",
+    "title": "Albatross",
+    "artist": "Slowdive",
+    "telegram_message_id": 1327,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXbmqOEV9SK4GBYhs3T9x1kRXyZ9BIAAJzEgACu1SgVzUJHUAW1bIgPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM30807891",
+    "title": "Avalyn I",
+    "artist": "Slowdive",
+    "telegram_message_id": 1328,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXb2qOEV8QoS65wAVHoNbIrIi77Y6mAAJ0EgACu1SgV-PinTh4kq0DPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "GBBQY0400056",
+    "title": "Celia's Dream",
+    "artist": "Slowdive",
+    "telegram_message_id": 1329,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXdGqOEV9gcjgLKYxizybKblnyLSxaAAJ7EgACu1SgVycDEztAbSfdPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM29283449",
+    "title": "Ballad of Sister Sue",
+    "artist": "Slowdive",
+    "telegram_message_id": 1330,
+    "file_id": "CQACAgUAAyEFAATr5_TbAAIXcWqOEV9ekbkbz3194teNSYybhP3TAAJ3EgACu1SgV_WVh6z4Eg9nPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
