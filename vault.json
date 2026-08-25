@@ -9411,5 +9411,50 @@
     "file_id": "CQACAgEAAyEFAATr5_TbAAIRNWqN7rphqRUVL0h1j6NP-RbeiPZUAAL7AwAC-GJ4RilkBMxs3oUSPQQ",
     "quality": "FLAC",
     "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM32095714",
+    "title": "Metalingus",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1158,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIROWqN7rqRM6fRkZ5RFgECU8V2FulHAAL_AwAC-GJ4RrrGchJvS9WUPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUZJ1000006",
+    "title": "Make It Right",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1159,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIROmqN7rqtvkFmJRb6AuHsHu_6p0WYAAMEAAL4YnhGRbCwU3etXGA9BA",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM27012580",
+    "title": "Words Darker Than Their Wings",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1160,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRQmqN7rolu52QlBSeY9V32TL7O5fsAAIIBAAC-GJ4Rgyp5WwotLuEPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "USUM20423008",
+    "title": "I Know It Hurts",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1161,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRPGqN7rrvk6tDJsmQu0WU67rYitJdAAICBAAC-GJ4RluzGN-PTbZdPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
+  },
+  {
+    "isrc": "ATN261773026",
+    "title": "Zero",
+    "artist": "Alter Bridge",
+    "telegram_message_id": 1162,
+    "file_id": "CQACAgEAAyEFAATr5_TbAAIRQ2qN7rpMRJAC-qCVmLIx0PrwQa_TAAIJBAAC-GJ4Rsi4fG3y36sXPQQ",
+    "quality": "FLAC",
+    "format": "16-bit \/ 44.1 kHz • Lossless FLAC"
   }
 ]
