@@ -1,0 +1,16 @@
+{
+  "version": "5.0",
+  "total_tracks": 3114,
+  "chunk_size": 5000,
+  "total_parts": 1,
+  "active_part": "vault_part1.json",
+  "parts": [
+    {
+      "part_number": 1,
+      "file": "vault_part1.json",
+      "count": 3114,
+      "status": "active"
+    }
+  ],
+  "updated_at": "2026-08-26T00:42:07Z"
+}
