@@ -12,5 +12,6 @@
       "status": "active"
     }
   ],
-  "updated_at": "2026-08-27T18:35:32Z"
+  "updated_at": "2026-08-27T18:35:32Z",
+  "test_ping": "git_data_api_verified"
 }
